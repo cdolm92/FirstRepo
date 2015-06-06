@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CABFC560-EE33-401F-9814-EC53BC8A4012</string>
+	<key>IDESourceControlProjectName</key>
+	<string>12 days of Christmas</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A06E1BA1435B35E49851903A3650126F3130F12</key>
+		<string>https://github.com/JustineKay/FirstRepo-1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>12 days of Christmas/12 days of Christmas.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A06E1BA1435B35E49851903A3650126F3130F12</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JustineKay/FirstRepo-1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A06E1BA1435B35E49851903A3650126F3130F12</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A06E1BA1435B35E49851903A3650126F3130F12</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FirstRepo-1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
