@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
         // insert code here...
         NSArray *days = @[@"first",@"second",@"third",@"fourth",@"fifth",@"sixth",@"seventh",@"eight",@"ninth",@"tenth",@"eleventh",@"twelfth"];
         NSArray *num = @[@"A",@"Two",@"Three",@"Four",@"Five",@"Six",@"Seven",@"Eight",@"Nine",@"Ten",@"Eleven",@"Twelve"];
-        NSArray *gifts = @[@"patridge in a pear tree", @"turtle doves", @"French Hens", @"colly birds", @"golden rings", @"geese a-laying", @"swans a-swimming", @"maids a-milking", @"ladies dancing", @"lords a-leaping", @"pipers piping", @"drummers drumming", @" and a patridge in a pear tree" ];
+        NSArray *gifts = @[@"patridge in a pear tree", @"turtle doves", @"French Hens", @"colly birds", @"golden rings", @"geese a-laying", @"swans a-swimming", @"maids a-milking", @"ladies dancing", @"lords a-leaping", @"pipers piping", @"drummers drumming", @"and a patridge in a pear tree" ];
         
         NSLog(@"On the %@ of Christmas, my true love sent to me\n", days[0]);
         NSLog(@"%@ %@\n\n", num[0],gifts[0]);
@@ -118,18 +118,8 @@ int main(int argc, const char * argv[]) {
         NSLog(@"%@ %@", num[1],gifts[1]);
         NSLog(@"%@\n\n",gifts[12]);
         
-        //Looped
-        
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
+        //Learn Loops Next
+ 
     }
     return 0;
 }
